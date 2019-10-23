@@ -1,0 +1,3 @@
+apt-get update
+apt-get upgrade -force
+apt-get install -force build-essential git

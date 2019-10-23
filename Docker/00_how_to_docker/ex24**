@@ -1,0 +1,1 @@
+docker run -d --hostname my-rabbit --network overmind --name some-rabbit rabbitmq:3
